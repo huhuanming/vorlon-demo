@@ -1,0 +1,11 @@
+{
+  "name": "vorlon-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "serve": "^6.4.4",
+    "vorlon": "^0.5.5"
+  }
+}
