@@ -1,9 +1,9 @@
 # VORLON DEMO
 
-Replace ip address by your ip address in `static/index.html`.
+Replace ip address by your IP address in `static/index.html`.
 
 ```txt
-192.168.0.113 => your local ip address
+192.168.0.113 => your local IP address
 ```
 
 And install dependencies by yarn.
